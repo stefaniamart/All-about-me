@@ -1,0 +1,27 @@
+body {
+    background-image: linear-gradient(#8697d2, #efc7bc);
+    background-color:#8697d2;
+}
+h1 { 
+    color:Purple;
+    text-align:center;
+    font-family: 'Pacifico', cursive;
+    border:5px black dashed;
+}
+
+img {
+    width:200px;
+    height:200px; 
+    border-style:solid;
+    margin:5px;
+}
+
+ul {
+    list-style-type: circle;
+}
+ul li {
+  background: #cce5ff;
+  margin: 5px;
+  font-family: 'Indie Flower', cursive;
+}
+
